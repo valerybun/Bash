@@ -864,8 +864,6 @@ exit 0
 
 #!/bin/bash
 
-# Calculate the average of a series of numbers.
-
 SCORE="0"
 AVERAGE="0"
 SUM="0"
