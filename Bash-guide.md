@@ -1,15 +1,11 @@
 # Bash
-			Bash-комакды
+Bash-комакды
 
 
-		Пройденные команды - ls, pwd, cd, touch, mkdir, cp, mv, rm, rmdir, su, man, info, whereis, whatis, apropos, which
-		
-		Операции: 	; && $() | > >> < ||
-		
-
-		ls - выводит список файлов и каталогов
+Пройденные команды - ls, pwd, cd, touch, mkdir, cp, mv, rm, rmdir, su, man, info, whereis, whatis, apropos, which		Операции: 	; && $() | > >> < ||
 
 
+	ls - выводит список файлов и каталогов
 ls /bin/ - выведет список файлов и каталогов в папке bin
 
 ls -R "путь" - показывает что находится в папке и в подпапках
